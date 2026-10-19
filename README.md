@@ -1,28 +1,58 @@
-# EVOLV-AI
+# EVOLV AI
+
 A Constitutional Intelligence System designed to encourage ethical reflection, ecological awareness, stewardship, and conscious evolution.
-Mission
+
+## Mission
+
 EVOLV AI exists to encourage conscious evolution through ethical reflection, ecological awareness, personal responsibility, philosophical inquiry, and compassionate action.
-Core Questions
-Can AI be governed by a constitution?
-Can intelligence evolve without centralization?
-Can governance be based on stewardship rather than wealth?
-Can AI support human flourishing rather than attention extraction?
-Current Status
-Foundational Architecture Complete
+
+## Core Questions
+
+- Can AI be governed by a constitution?
+- Can intelligence evolve without centralization?
+- Can governance be based on stewardship rather than wealth?
+- Can AI support human flourishing rather than attention extraction?
+
+## Current Status
+
+**Foundational Architecture Complete**
 
 Seeking contributors interested in:
 
-Artificial Intelligence
-Constitutional AI
-Governance Systems
-Retrieval-Augmented Generation (RAG)
-Open Source Development
-Ethics and Philosophy
-Project Documents
+- Artificial Intelligence
+- Constitutional AI
+- Governance Systems
+- Retrieval-Augmented Generation (RAG)
+- Open Source Development
+- Ethics and Philosophy
+
+## Project Documents
+
 Coming Soon:
 
-Constitution
-Governance Charter
-Economic Charter
-Technical Blueprint
-Whitepaper v1.0
+- Constitution
+- Governance Charter
+- Economic Charter
+- Technical Blueprint
+- Whitepaper v1.0
+
+## Founder's Statement
+
+> I'm attempting something that doesn't exist yet.
+>
+> I need technical minds to help determine whether it's possible.
+
+## Current Focus
+
+Building the foundations of a Constitutional Intelligence System capable of:
+
+- Constitutional Compliance Analysis
+- Stewardship-Based Governance
+- Regenerative Economics
+- Explainable AI Reasoning
+- Evolution Without Corruption
+
+## Open Invitation
+
+If you are interested in AI, governance, philosophy, ethics, education, systems design, or regenerative technology, feedback and constructive criticism are welcome.
+  
